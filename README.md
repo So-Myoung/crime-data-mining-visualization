@@ -1,2 +1,3 @@
-# Crime_Data_Mining_Visualization
+# 지역별 범죄 DATA와 방범 장치 배치 DATA를 이용한 범죄 취약 지역 방범 강화
+
 공공 데이터를 이용한 범죄 취약 지역 방범 강화
